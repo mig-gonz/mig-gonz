@@ -23,7 +23,7 @@ I am a passionate learner and aspiring software developer, dedicated to honing c
           
 #
 
-## Projects
+## Projects:
 
 Check out this beautiful e-commerce app built from the ground up:
 [Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
