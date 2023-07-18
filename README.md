@@ -28,6 +28,15 @@ I am a passionate learner and aspiring software developer, dedicated to honing c
 Check out this beautiful e-commerce app built from the ground up:
 [Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
 
+Features:
+- View related products
+- Create an account
+- Login
+- Add items to your wishlist
+- View your personal wishlist
+
+Explore the app and enjoy a seamless shopping experience with Node Shark!
+
 # 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gonz&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
