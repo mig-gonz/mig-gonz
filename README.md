@@ -23,5 +23,10 @@ I am a passionate learner and aspiring software developer, dedicated to honing c
           
 #
 
+Check out this beautiful e-commerce app built from the ground up:
+[Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
+
+# 
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gonz&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gonz&layout=compact&langs_count=10&exclude_repo=github-readme-stats&hide=html,shell,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
