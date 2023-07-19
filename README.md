@@ -4,7 +4,7 @@
 
 I am a passionate learner and aspiring software developer, dedicated to honing coding skills and creating innovative solutions that make a positive impact. Drawing from years of experience in the dynamic field of food and beverage, I bring a unique perspective to collaborative team environments. With a background in restaurants and cafes, I thrive in fast-paced, customer-centric settings. I excel at delivering exceptional service, ensuring guest satisfaction, and orchestrating seamless food and beverage experiences. Combining my expertise in hospitality with my growing software development skills, I am driven to transform ideas into practical, real-world applications that enhance the industry and enrich the guest experience.
 
----
+#
 
 ### Languages and Tools:
 
@@ -23,7 +23,7 @@ I am a passionate learner and aspiring software developer, dedicated to honing c
           
 #
 
-## Projects:
+### Projects:
 
 Check out this beautiful e-commerce app built from the ground up:
 [Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
