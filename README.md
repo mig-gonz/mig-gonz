@@ -25,8 +25,10 @@ I am a passionate learner and aspiring software developer, dedicated to honing c
 
 ### Projects:
 
-Node Shark, beautiful e-commerce app:
-[Click Me](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
+Beautiful e-commerce app:
+[Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
+
+Hosted on AWS Amplify, Lambda, and API Gateway
 
 Features:
 - View related products
