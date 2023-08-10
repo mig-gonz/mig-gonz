@@ -1,8 +1,13 @@
-# Hi there, I'm Miguel!👋 
+# Hi there 👋, I'm Miguel! 
 
 **`Transforming passion into powerful code`**
 
-With a solid foundation drawn from years of experience in the dynamic field of food and beverage, I bring a unique perspective to collaborative team environments. My background in restaurants and cafes has equipped me to thrive in fast-paced, customer-centric settings. I excel at delivering exceptional service, ensuring guest satisfaction, and orchestrating seamless food and beverage experiences. Building upon this rich hospitality background, I have transitioned into a passionate learner and full stack developer, dedicated to honing coding skills and creating innovative solutions that make a positive impact. By combining my expertise in both hospitality and software development, I am well-equipped to deliver practical, real-world applications that address diverse industry needs.
+I'm a full-stack developer. I graduated from the University of Nevada, Las Vegas software development bootcamp. Currently, I'm exploring SSR and SSG with Next.js.
+<br />
+I love to work out. High-intensity training is the key. Sleep well, my friends.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-gonzalez-b50170282/)
+
 
 #
 
