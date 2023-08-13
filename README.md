@@ -2,7 +2,7 @@
 
 **`Transforming passion into powerful code`**
 
-I'm a full-stack developer. I graduated from the University of Nevada, Las Vegas software development bootcamp. Currently, I'm exploring SSR and SSG with Next.js.
+I'm a full-stack developer. I graduated from the University of Nevada, Las Vegas software development bootcamp. Currently, I'm exploring SSR with Next.js.
 <br />
 I love to work out. High-intensity training is the key. Sleep well, my friends.
 
