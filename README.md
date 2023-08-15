@@ -33,19 +33,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-gonzalez-b50170
 
 ### Projects:
 
-Beautiful e-commerce app:
+
+Exquisite E-commerce App:
 [Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
 
-Hosted on AWS Amplify, Lambda, and API Gateway
-
-Features:
-- View related products
-- Create an account
-- Login
-- Add items to your wishlist
-- View your personal wishlist
-
-Explore the app and enjoy a seamless shopping experience with Node Shark!
+Elegantly Designed UX/UI Website:
+[gpt3-portfolio](https://gpt3-portfolio.com/)
 
 # 
 
