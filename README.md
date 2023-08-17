@@ -40,7 +40,4 @@ Exquisite E-commerce App:
 Elegantly Designed UX/UI Website:
 [gpt3-portfolio](https://gpt3-portfolio.com/)
 
-# 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gonz&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mig-gonz&layout=compact&langs_count=10&exclude_repo=github-readme-stats&hide=html,shell,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
