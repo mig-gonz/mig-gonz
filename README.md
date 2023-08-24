@@ -2,7 +2,7 @@
 
 I'm a full-stack developer. I graduated from the University of Nevada, Las Vegas software development bootcamp. Currently, I'm exploring SSR with Next.js.
 <br />
-I love to work out. High-intensity training is the key. Sleep well, my friends.
+I enjoy working out and long walks at the park. 💪🚶‍♂️
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-gonzalez-b50170282/)
 
