@@ -30,7 +30,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-gonzalez-b50170
 <img align="left" alt="express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>       
 
 <br />
-          
+<br />
+
 #
 
 ### Projects:
