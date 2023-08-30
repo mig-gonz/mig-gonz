@@ -38,9 +38,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-gonzalez-b50170
 
 
 Exquisite E-commerce App:
-[Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/)
+[Node Shark](https://aws-deployment.d24dzy57n244p8.amplifyapp.com/) and
+[Node Shark Repo](https://github.com/mig-gonz/NodeShark)
 
 Elegantly Designed UX/UI Website:
-[gpt3-portfolio](https://gpt3-portfolio.com/)
+[gpt3-portfolio](https://gpt3-portfolio.com/) and
+[gpt3-portfolio Repo](https://github.com/mig-gonz/ui-ux-design) 
 
 
